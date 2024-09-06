@@ -1,6 +1,6 @@
 # POZO Lottery Pro
 
-POZO Lottery Pro is a comprehensive lottery analysis tool designed to help users increase their chances of winning by applying various statistical strategies to past lottery data. This application is tailored for the Ecuadorian "El Pozo" lottery system but can be adapted for other systems as well.
+POZO Lottery Pro is a comprehensive lottery analysis tool designed to help users increase their chances of winning by applying various statistical strategies to past lottery data. This application is tailored for the Ecuadorian "POZO Millonario" lottery system but can be adapted for other systems as well.
 
 ## Features
 
