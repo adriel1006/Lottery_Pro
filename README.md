@@ -20,7 +20,7 @@ POZO Lottery Pro is a comprehensive lottery analysis tool designed to help users
 
 ## How to Use
 
-1. **Download the Application**: Download the `LottoApp.exe` from the Releases section.
+1. **Download the Application**: Download the `POZO_Lottery_Pro.exe` from the Releases section.
 2. **Run the Application**: Double-click on the executable file to launch the application.
 3. **Fetch Latest Results**: Click on the "Update" Tab to receive the lastest POZO Millionario results and a timer showing when the next drawing will be.
 4. **Select Strategies**: In the generator tab, select the strategies you wish to apply.
